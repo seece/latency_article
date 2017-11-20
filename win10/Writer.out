@@ -1,0 +1,1507 @@
+Untitled 1 - LibreOffice Writer
+Run 0...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-507.245758 ms	0.000000 ms	0 
+frame01.bmp	11.588533 ms	518.834291 ms	51 ignored
+frame02.bmp	31.396643 ms	19.808110 ms	51 ignored
+frame03.bmp	51.466682 ms	20.070039 ms	51 ignored
+frame04.bmp	71.467749 ms	20.001067 ms	51 ignored
+frame05.bmp	91.359611 ms	19.891862 ms	51 ignored
+frame06.bmp	111.350825 ms	19.991214 ms	51 ignored
+frame07.bmp	131.449603 ms	20.098778 ms	51 ignored
+frame08.bmp	151.252787 ms	19.803183 ms	51 ignored
+frame09.bmp	171.875013 ms	20.622226 ms	51 ignored
+
+Estimated latency: -1.000000 ms
+Run 1...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-501.381493 ms	0.000000 ms	0 
+frame01.bmp	18.388436 ms	519.769929 ms	51 ignored
+frame02.bmp	38.427684 ms	20.039248 ms	201 <-- changed
+frame03.bmp	58.468164 ms	20.040480 ms	201 
+frame04.bmp	79.552257 ms	21.084093 ms	201 
+frame05.bmp	99.479015 ms	19.926758 ms	201 
+frame06.bmp	119.142612 ms	19.663597 ms	383 
+frame07.bmp	137.271171 ms	18.128559 ms	383 
+frame08.bmp	157.583434 ms	20.312263 ms	383 
+frame09.bmp	179.146225 ms	21.562791 ms	383 
+
+Estimated latency: 38.427684 ms
+Run 2...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-506.771165 ms	0.000000 ms	0 
+frame01.bmp	12.811965 ms	519.583130 ms	51 ignored
+frame02.bmp	33.237949 ms	20.425984 ms	51 ignored
+frame03.bmp	52.922484 ms	19.684535 ms	204 <-- changed
+frame04.bmp	71.884866 ms	18.962382 ms	204 
+frame05.bmp	91.934378 ms	20.049512 ms	204 
+frame06.bmp	111.888232 ms	19.953854 ms	204 
+frame07.bmp	131.731650 ms	19.843417 ms	204 
+frame08.bmp	151.736822 ms	20.005173 ms	204 
+frame09.bmp	171.667276 ms	19.930453 ms	204 
+
+Estimated latency: 52.922484 ms
+Run 3...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-501.151587 ms	0.000000 ms	0 
+frame01.bmp	18.813763 ms	519.965350 ms	51 ignored
+frame02.bmp	38.789377 ms	19.975613 ms	195 <-- changed
+frame03.bmp	57.807182 ms	19.017805 ms	195 
+frame04.bmp	78.027482 ms	20.220300 ms	195 
+frame05.bmp	97.855709 ms	19.828227 ms	195 
+frame06.bmp	117.583762 ms	19.728053 ms	195 
+frame07.bmp	137.602072 ms	20.018310 ms	195 
+frame08.bmp	157.874101 ms	20.272029 ms	195 
+frame09.bmp	177.601333 ms	19.727232 ms	195 
+
+Estimated latency: 38.789377 ms
+Run 4...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-506.606946 ms	0.000000 ms	0 
+frame01.bmp	14.033755 ms	520.640701 ms	51 ignored
+frame02.bmp	33.389031 ms	19.355276 ms	195 <-- changed
+frame03.bmp	52.529180 ms	19.140149 ms	195 
+frame04.bmp	72.404619 ms	19.875440 ms	195 
+frame05.bmp	92.298944 ms	19.894325 ms	195 
+frame06.bmp	112.252799 ms	19.953854 ms	195 
+frame07.bmp	132.213633 ms	19.960834 ms	195 
+frame08.bmp	152.217984 ms	20.004352 ms	195 
+frame09.bmp	172.175944 ms	19.957960 ms	195 
+
+Estimated latency: 33.389031 ms
+Run 5...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-500.745555 ms	0.000000 ms	0 
+frame01.bmp	19.272345 ms	520.017900 ms	51 ignored
+frame02.bmp	39.312415 ms	20.040069 ms	195 <-- changed
+frame03.bmp	58.283007 ms	18.970592 ms	195 
+frame04.bmp	78.337856 ms	20.054849 ms	195 
+frame05.bmp	98.086847 ms	19.748991 ms	195 
+frame06.bmp	118.003752 ms	19.916905 ms	195 
+frame07.bmp	138.052443 ms	20.048691 ms	195 
+frame08.bmp	158.065417 ms	20.012973 ms	195 
+frame09.bmp	177.918687 ms	19.853270 ms	195 
+
+Estimated latency: 39.312415 ms
+Run 6...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-506.152469 ms	0.000000 ms	0 
+frame01.bmp	14.385184 ms	520.537653 ms	51 ignored
+frame02.bmp	33.919459 ms	19.534275 ms	195 <-- changed
+frame03.bmp	52.907705 ms	18.988246 ms	195 
+frame04.bmp	72.861559 ms	19.953854 ms	195 
+frame05.bmp	92.807613 ms	19.946054 ms	195 
+frame06.bmp	112.677305 ms	19.869692 ms	195 
+frame07.bmp	132.686173 ms	20.008868 ms	195 
+frame08.bmp	152.640849 ms	19.954676 ms	195 
+frame09.bmp	172.725257 ms	20.084409 ms	195 
+
+Estimated latency: 33.919459 ms
+Run 7...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-500.270551 ms	0.000000 ms	0 
+frame01.bmp	19.802362 ms	520.072913 ms	51 ignored
+frame02.bmp	39.846127 ms	20.043764 ms	195 <-- changed
+frame03.bmp	58.713672 ms	18.867545 ms	195 
+frame04.bmp	78.766058 ms	20.052386 ms	195 
+frame05.bmp	98.688300 ms	19.922242 ms	195 
+frame06.bmp	118.505442 ms	19.817142 ms	195 
+frame07.bmp	138.517183 ms	20.011742 ms	195 
+frame08.bmp	158.537547 ms	20.020363 ms	195 
+frame09.bmp	178.431461 ms	19.893914 ms	195 
+
+Estimated latency: 39.846127 ms
+Run 8...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-505.725910 ms	0.000000 ms	0 
+frame01.bmp	14.801069 ms	520.526979 ms	51 ignored
+frame02.bmp	34.347660 ms	19.546591 ms	201 <-- changed
+frame03.bmp	53.316200 ms	18.968540 ms	201 
+frame04.bmp	73.323015 ms	20.006815 ms	201 
+frame05.bmp	93.192296 ms	19.869282 ms	201 
+frame06.bmp	113.143688 ms	19.951391 ms	201 
+frame07.bmp	133.153787 ms	20.010099 ms	201 
+frame08.bmp	153.096557 ms	19.942770 ms	201 
+frame09.bmp	173.069707 ms	19.973150 ms	201 
+
+Estimated latency: 34.347660 ms
+Run 9...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-515.322054 ms	0.000000 ms	0 
+frame01.bmp	24.606182 ms	539.928236 ms	51 ignored
+frame02.bmp	44.556752 ms	19.950570 ms	201 <-- changed
+frame03.bmp	63.631213 ms	19.074461 ms	201 
+frame04.bmp	83.617501 ms	19.986288 ms	201 
+frame05.bmp	103.439159 ms	19.821658 ms	201 
+frame06.bmp	123.358938 ms	19.919779 ms	201 
+frame07.bmp	143.450326 ms	20.091388 ms	201 
+frame08.bmp	163.457551 ms	20.007226 ms	201 
+frame09.bmp	183.378973 ms	19.921421 ms	201 
+
+Estimated latency: 44.556752 ms
+Run 10...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-504.097267 ms	0.000000 ms	0 
+frame01.bmp	15.017838 ms	519.115105 ms	51 ignored
+frame02.bmp	34.896562 ms	19.878724 ms	201 <-- changed
+frame03.bmp	53.889325 ms	18.992762 ms	201 
+frame04.bmp	73.955669 ms	20.066345 ms	201 
+frame05.bmp	93.913629 ms	19.957960 ms	201 
+frame06.bmp	114.063725 ms	20.150096 ms	201 
+frame07.bmp	133.962156 ms	19.898430 ms	201 
+frame08.bmp	153.589625 ms	19.627469 ms	201 
+frame09.bmp	173.662127 ms	20.072503 ms	201 
+
+Estimated latency: 34.896562 ms
+Run 11...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-514.684884 ms	0.000000 ms	0 
+frame01.bmp	24.971159 ms	539.656043 ms	51 ignored
+frame02.bmp	45.091696 ms	20.120537 ms	201 <-- changed
+frame03.bmp	64.316828 ms	19.225132 ms	201 
+frame04.bmp	83.980015 ms	19.663187 ms	201 
+frame05.bmp	103.825484 ms	19.845470 ms	201 
+frame06.bmp	123.738695 ms	19.913210 ms	201 
+frame07.bmp	143.879348 ms	20.140654 ms	201 
+frame08.bmp	163.697311 ms	19.817963 ms	201 
+frame09.bmp	183.702484 ms	20.005173 ms	201 
+
+Estimated latency: 45.091696 ms
+Run 12...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-504.800946 ms	0.000000 ms	0 
+frame01.bmp	15.478883 ms	520.279829 ms	51 ignored
+frame02.bmp	35.208579 ms	19.729695 ms	204 <-- changed
+frame03.bmp	54.247322 ms	19.038743 ms	204 
+frame04.bmp	74.180649 ms	19.933327 ms	204 
+frame05.bmp	94.178022 ms	19.997372 ms	204 
+frame06.bmp	114.027186 ms	19.849165 ms	204 
+frame07.bmp	133.946144 ms	19.918958 ms	204 
+frame08.bmp	153.800236 ms	19.854091 ms	204 
+frame09.bmp	173.962648 ms	20.162413 ms	204 
+
+Estimated latency: 35.208579 ms
+Run 13...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-514.353983 ms	0.000000 ms	0 
+frame01.bmp	25.320125 ms	539.674107 ms	51 ignored
+frame02.bmp	45.400428 ms	20.080303 ms	195 <-- changed
+frame03.bmp	64.408791 ms	19.008363 ms	195 
+frame04.bmp	84.357308 ms	19.948517 ms	195 
+frame05.bmp	104.195388 ms	19.838080 ms	195 
+frame06.bmp	125.056964 ms	20.861576 ms	195 
+frame07.bmp	144.422503 ms	19.365539 ms	195 
+frame08.bmp	164.077068 ms	19.654565 ms	195 
+frame09.bmp	184.064587 ms	19.987519 ms	195 
+
+Estimated latency: 45.400428 ms
+Run 14...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-504.282835 ms	0.000000 ms	0 
+frame01.bmp	15.397184 ms	519.680019 ms	51 ignored
+frame02.bmp	35.945512 ms	20.548328 ms	195 <-- changed
+frame03.bmp	54.709599 ms	18.764087 ms	195 
+frame04.bmp	74.743100 ms	20.033501 ms	195 
+frame05.bmp	94.597602 ms	19.854502 ms	195 
+frame06.bmp	114.524360 ms	19.926758 ms	195 
+frame07.bmp	134.324259 ms	19.799899 ms	195 
+frame08.bmp	154.279345 ms	19.955086 ms	195 
+frame09.bmp	174.268917 ms	19.989572 ms	195 
+
+Estimated latency: 35.945512 ms
+Run 15...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-513.908538 ms	0.000000 ms	0 
+frame01.bmp	26.347726 ms	540.256264 ms	51 ignored
+frame02.bmp	45.850799 ms	19.503073 ms	195 <-- changed
+frame03.bmp	64.846435 ms	18.995636 ms	195 
+frame04.bmp	84.882809 ms	20.036375 ms	195 
+frame05.bmp	104.634674 ms	19.751865 ms	195 
+frame06.bmp	124.663659 ms	20.028985 ms	195 
+frame07.bmp	144.575637 ms	19.911979 ms	195 
+frame08.bmp	164.926491 ms	20.350854 ms	195 
+frame09.bmp	185.368898 ms	20.442406 ms	195 
+
+Estimated latency: 45.850799 ms
+Run 16...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-503.837801 ms	0.000000 ms	0 
+frame01.bmp	15.962509 ms	519.800310 ms	51 ignored
+frame02.bmp	36.062518 ms	20.100009 ms	195 <-- changed
+frame03.bmp	55.178855 ms	19.116337 ms	195 
+frame04.bmp	75.069896 ms	19.891041 ms	195 
+frame05.bmp	95.012255 ms	19.942359 ms	195 
+frame06.bmp	114.945992 ms	19.933738 ms	195 
+frame07.bmp	134.803368 ms	19.857376 ms	195 
+frame08.bmp	154.737106 ms	19.933738 ms	195 
+frame09.bmp	174.706150 ms	19.969045 ms	195 
+
+Estimated latency: 36.062518 ms
+Run 17...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-513.384679 ms	0.000000 ms	0 
+frame01.bmp	26.273827 ms	539.658506 ms	51 ignored
+frame02.bmp	46.244104 ms	19.970276 ms	195 <-- changed
+frame03.bmp	65.361672 ms	19.117569 ms	195 
+frame04.bmp	85.227669 ms	19.865997 ms	195 
+frame05.bmp	105.105983 ms	19.878314 ms	195 
+frame06.bmp	125.264701 ms	20.158718 ms	195 
+frame07.bmp	145.417671 ms	20.152970 ms	195 
+frame08.bmp	165.147366 ms	19.729695 ms	195 
+frame09.bmp	184.951371 ms	19.804004 ms	195 
+
+Estimated latency: 46.244104 ms
+Run 18...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-503.377577 ms	0.000000 ms	0 
+frame01.bmp	16.501969 ms	519.879545 ms	51 ignored
+frame02.bmp	36.797809 ms	20.295841 ms	201 <-- changed
+frame03.bmp	55.468702 ms	18.670893 ms	201 
+frame04.bmp	75.528067 ms	20.059365 ms	201 
+frame05.bmp	95.536114 ms	20.008047 ms	201 
+frame06.bmp	115.227218 ms	19.691104 ms	201 
+frame07.bmp	135.463118 ms	20.235901 ms	201 
+frame08.bmp	155.328295 ms	19.865176 ms	201 
+frame09.bmp	175.292823 ms	19.964529 ms	201 
+
+Estimated latency: 36.797809 ms
+Run 19...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-512.916655 ms	0.000000 ms	0 
+frame01.bmp	26.636751 ms	539.553406 ms	51 ignored
+frame02.bmp	46.833650 ms	20.196899 ms	201 <-- changed
+frame03.bmp	65.758672 ms	18.925022 ms	201 
+frame04.bmp	85.921495 ms	20.162823 ms	201 
+frame05.bmp	105.677055 ms	19.755560 ms	201 
+frame06.bmp	125.752431 ms	20.075377 ms	201 
+frame07.bmp	145.603238 ms	19.850807 ms	201 
+frame08.bmp	165.508238 ms	19.904999 ms	201 
+frame09.bmp	185.503968 ms	19.995730 ms	201 
+
+Estimated latency: 46.833650 ms
+Run 20...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-502.881224 ms	0.000000 ms	0 
+frame01.bmp	16.828765 ms	519.709989 ms	51 ignored
+frame02.bmp	37.070413 ms	20.241648 ms	201 <-- changed
+frame03.bmp	55.974907 ms	18.904494 ms	201 
+frame04.bmp	75.929172 ms	19.954265 ms	201 
+frame05.bmp	96.094869 ms	20.165697 ms	201 
+frame06.bmp	115.862746 ms	19.767876 ms	201 
+frame07.bmp	135.867097 ms	20.004352 ms	201 
+frame08.bmp	155.747874 ms	19.880777 ms	201 
+frame09.bmp	175.650410 ms	19.902536 ms	201 
+
+Estimated latency: 37.070413 ms
+Run 21...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-512.598480 ms	0.000000 ms	0 
+frame01.bmp	27.219729 ms	539.818209 ms	51 ignored
+frame02.bmp	47.419091 ms	20.199362 ms	201 <-- changed
+frame03.bmp	66.194674 ms	18.775582 ms	201 
+frame04.bmp	86.040964 ms	19.846291 ms	201 
+frame05.bmp	106.042442 ms	20.001478 ms	201 
+frame06.bmp	125.993423 ms	19.950981 ms	201 
+frame07.bmp	146.017481 ms	20.024058 ms	201 
+frame08.bmp	165.835034 ms	19.817553 ms	201 
+frame09.bmp	185.818448 ms	19.983414 ms	201 
+
+Estimated latency: 47.419091 ms
+Run 22...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-502.498183 ms	0.000000 ms	0 
+frame01.bmp	17.293094 ms	519.791278 ms	51 ignored
+frame02.bmp	37.542132 ms	20.249038 ms	204 <-- changed
+frame03.bmp	56.468796 ms	18.926664 ms	204 
+frame04.bmp	76.334383 ms	19.865587 ms	204 
+frame05.bmp	96.342430 ms	20.008047 ms	204 
+frame06.bmp	116.476925 ms	20.134495 ms	204 
+frame07.bmp	136.231253 ms	19.754328 ms	204 
+frame08.bmp	156.356717 ms	20.125463 ms	204 
+frame09.bmp	176.080254 ms	19.723537 ms	204 
+
+Estimated latency: 37.542132 ms
+Run 23...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-512.057378 ms	0.000000 ms	0 
+frame01.bmp	27.585938 ms	539.643316 ms	51 ignored
+frame02.bmp	47.825944 ms	20.240006 ms	195 <-- changed
+frame03.bmp	66.717711 ms	18.891767 ms	195 
+frame04.bmp	86.899009 ms	20.181298 ms	195 
+frame05.bmp	106.561785 ms	19.662776 ms	195 
+frame06.bmp	126.567369 ms	20.005583 ms	195 
+frame07.bmp	146.539287 ms	19.971919 ms	195 
+frame08.bmp	166.481236 ms	19.941949 ms	195 
+frame09.bmp	186.085304 ms	19.604068 ms	195 
+
+Estimated latency: 47.825944 ms
+Run 24...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-501.115869 ms	0.000000 ms	0 
+frame01.bmp	18.603973 ms	519.719842 ms	51 ignored
+frame02.bmp	38.789787 ms	20.185814 ms	195 <-- changed
+frame03.bmp	57.790760 ms	19.000973 ms	195 
+frame04.bmp	77.740509 ms	19.949749 ms	195 
+frame05.bmp	97.657825 ms	19.917316 ms	195 
+frame06.bmp	117.472914 ms	19.815089 ms	195 
+frame07.bmp	137.656265 ms	20.183351 ms	195 
+frame08.bmp	157.513230 ms	19.856965 ms	195 
+frame09.bmp	177.544678 ms	20.031448 ms	195 
+
+Estimated latency: 38.789787 ms
+Run 25...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-506.505130 ms	0.000000 ms	0 
+frame01.bmp	14.184837 ms	520.689967 ms	51 ignored
+frame02.bmp	33.585273 ms	19.400436 ms	195 <-- changed
+frame03.bmp	52.347718 ms	18.762445 ms	195 
+frame04.bmp	72.243685 ms	19.895967 ms	195 
+frame05.bmp	92.232436 ms	19.988751 ms	195 
+frame06.bmp	112.268400 ms	20.035964 ms	195 
+frame07.bmp	132.310522 ms	20.042122 ms	195 
+frame08.bmp	152.087430 ms	19.776908 ms	195 
+frame09.bmp	172.111899 ms	20.024469 ms	195 
+
+Estimated latency: 33.585273 ms
+Run 26...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-500.607611 ms	0.000000 ms	0 
+frame01.bmp	19.062966 ms	519.670576 ms	51 ignored
+frame02.bmp	39.355933 ms	20.292967 ms	195 <-- changed
+frame03.bmp	58.217730 ms	18.861797 ms	195 
+frame04.bmp	78.629756 ms	20.412026 ms	195 
+frame05.bmp	98.630413 ms	20.000657 ms	195 
+frame06.bmp	117.953255 ms	19.322842 ms	195 
+frame07.bmp	138.056549 ms	20.103294 ms	195 
+frame08.bmp	158.039142 ms	19.982593 ms	195 
+frame09.bmp	177.874758 ms	19.835617 ms	195 
+
+Estimated latency: 39.355933 ms
+Run 27...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-506.046958 ms	0.000000 ms	0 
+frame01.bmp	14.741129 ms	520.788088 ms	51 ignored
+frame02.bmp	33.868140 ms	19.127011 ms	195 <-- changed
+frame03.bmp	52.913042 ms	19.044902 ms	195 
+frame04.bmp	72.778218 ms	19.865176 ms	195 
+frame05.bmp	92.540757 ms	19.762539 ms	195 
+frame06.bmp	112.674021 ms	20.133264 ms	195 
+frame07.bmp	132.543303 ms	19.869282 ms	195 
+frame08.bmp	152.481556 ms	19.938254 ms	195 
+frame09.bmp	172.583208 ms	20.101652 ms	195 
+
+Estimated latency: 33.868140 ms
+Run 28...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-515.154551 ms	0.000000 ms	0 
+frame01.bmp	23.940274 ms	539.094824 ms	51 ignored
+frame02.bmp	44.085033 ms	20.144759 ms	201 <-- changed
+frame03.bmp	63.080669 ms	18.995636 ms	201 
+frame04.bmp	83.066546 ms	19.985877 ms	201 
+frame05.bmp	102.884098 ms	19.817553 ms	201 
+frame06.bmp	122.849859 ms	19.965760 ms	201 
+frame07.bmp	142.759784 ms	19.909926 ms	201 
+frame08.bmp	162.913986 ms	20.154202 ms	201 
+frame09.bmp	182.994700 ms	20.080714 ms	201 
+
+Estimated latency: 44.085033 ms
+Run 29...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-505.665970 ms	0.000000 ms	0 
+frame01.bmp	15.124170 ms	520.790140 ms	51 ignored
+frame02.bmp	34.281562 ms	19.157392 ms	201 <-- changed
+frame03.bmp	53.555549 ms	19.273987 ms	201 
+frame04.bmp	73.190819 ms	19.635269 ms	201 
+frame05.bmp	93.099102 ms	19.908284 ms	201 
+frame06.bmp	113.086621 ms	19.987519 ms	201 
+frame07.bmp	133.075783 ms	19.989162 ms	201 
+frame08.bmp	152.898673 ms	19.822890 ms	201 
+frame09.bmp	172.933816 ms	20.035143 ms	201 
+
+Estimated latency: 34.281562 ms
+Run 30...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-515.165636 ms	0.000000 ms	0 
+frame01.bmp	24.441552 ms	539.607188 ms	51 ignored
+frame02.bmp	44.625724 ms	20.184172 ms	201 <-- changed
+frame03.bmp	63.518312 ms	18.892588 ms	201 
+frame04.bmp	83.560024 ms	20.041712 ms	201 
+frame05.bmp	103.123858 ms	19.563834 ms	201 
+frame06.bmp	123.337589 ms	20.213731 ms	201 
+frame07.bmp	143.208103 ms	19.870513 ms	201 
+frame08.bmp	163.137735 ms	19.929632 ms	201 
+frame09.bmp	183.108832 ms	19.971097 ms	201 
+
+Estimated latency: 44.625724 ms
+Run 31...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-505.147859 ms	0.000000 ms	0 
+frame01.bmp	15.297011 ms	520.444870 ms	51 ignored
+frame02.bmp	34.742197 ms	19.445186 ms	201 <-- changed
+frame03.bmp	53.868797 ms	19.126601 ms	201 
+frame04.bmp	73.692097 ms	19.823300 ms	201 
+frame05.bmp	93.552347 ms	19.860250 ms	201 
+frame06.bmp	113.647019 ms	20.094672 ms	201 
+frame07.bmp	133.519175 ms	19.872155 ms	201 
+frame08.bmp	153.483293 ms	19.964118 ms	201 
+frame09.bmp	173.570575 ms	20.087282 ms	201 
+
+Estimated latency: 34.742197 ms
+Run 32...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-514.708285 ms	0.000000 ms	0 
+frame01.bmp	24.875501 ms	539.583787 ms	51 ignored
+frame02.bmp	44.959499 ms	20.083998 ms	204 <-- changed
+frame03.bmp	64.093079 ms	19.133580 ms	204 
+frame04.bmp	83.850692 ms	19.757613 ms	204 
+frame05.bmp	103.738448 ms	19.887756 ms	204 
+frame06.bmp	123.819572 ms	20.081124 ms	204 
+frame07.bmp	143.661758 ms	19.842185 ms	204 
+frame08.bmp	163.604117 ms	19.942359 ms	204 
+frame09.bmp	183.587941 ms	19.983824 ms	204 
+
+Estimated latency: 44.959499 ms
+Run 33...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-504.648222 ms	0.000000 ms	0 
+frame01.bmp	15.632018 ms	520.280240 ms	51 ignored
+frame02.bmp	35.195031 ms	19.563013 ms	195 <-- changed
+frame03.bmp	54.182866 ms	18.987835 ms	195 
+frame04.bmp	74.073907 ms	19.891041 ms	195 
+frame05.bmp	94.138199 ms	20.064292 ms	195 
+frame06.bmp	114.064957 ms	19.926758 ms	195 
+frame07.bmp	133.893184 ms	19.828227 ms	195 
+frame08.bmp	153.880292 ms	19.987109 ms	195 
+frame09.bmp	173.894087 ms	20.013794 ms	195 
+
+Estimated latency: 35.195031 ms
+Run 34...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-514.199617 ms	0.000000 ms	0 
+frame01.bmp	25.350916 ms	539.550532 ms	51 ignored
+frame02.bmp	45.402481 ms	20.051565 ms	195 <-- changed
+frame03.bmp	64.336945 ms	18.934464 ms	195 
+frame04.bmp	84.487862 ms	20.150917 ms	195 
+frame05.bmp	104.212631 ms	19.724769 ms	195 
+frame06.bmp	124.088481 ms	19.875850 ms	195 
+frame07.bmp	144.211071 ms	20.122590 ms	195 
+frame08.bmp	164.168210 ms	19.957139 ms	195 
+frame09.bmp	184.042007 ms	19.873798 ms	195 
+
+Estimated latency: 45.402481 ms
+Run 35...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-504.276266 ms	0.000000 ms	0 
+frame01.bmp	16.148897 ms	520.425163 ms	51 ignored
+frame02.bmp	35.645812 ms	19.496915 ms	195 <-- changed
+frame03.bmp	54.663618 ms	19.017805 ms	195 
+frame04.bmp	74.524278 ms	19.860660 ms	195 
+frame05.bmp	94.536430 ms	20.012152 ms	195 
+frame06.bmp	114.493979 ms	19.957549 ms	195 
+frame07.bmp	134.336165 ms	19.842185 ms	195 
+frame08.bmp	154.330663 ms	19.994499 ms	195 
+frame09.bmp	174.899518 ms	20.568855 ms	195 
+
+Estimated latency: 35.645812 ms
+Run 36...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-513.894169 ms	0.000000 ms	0 
+frame01.bmp	25.687975 ms	539.582144 ms	51 ignored
+frame02.bmp	45.821650 ms	20.133674 ms	195 <-- changed
+frame03.bmp	64.811538 ms	18.989888 ms	195 
+frame04.bmp	84.669324 ms	19.857786 ms	195 
+frame05.bmp	104.704878 ms	20.035553 ms	195 
+frame06.bmp	124.640668 ms	19.935790 ms	195 
+frame07.bmp	144.596165 ms	19.955497 ms	195 
+frame08.bmp	164.342692 ms	19.746528 ms	195 
+frame09.bmp	184.618416 ms	20.275724 ms	195 
+
+Estimated latency: 45.821650 ms
+Run 37...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-503.827537 ms	0.000000 ms	0 
+frame01.bmp	16.527012 ms	520.354549 ms	51 ignored
+frame02.bmp	36.290372 ms	19.763360 ms	195 <-- changed
+frame03.bmp	55.104546 ms	18.814174 ms	195 
+frame04.bmp	75.014061 ms	19.909515 ms	195 
+frame05.bmp	95.120229 ms	20.106168 ms	195 
+frame06.bmp	114.984994 ms	19.864766 ms	195 
+frame07.bmp	135.429864 ms	20.444870 ms	195 
+frame08.bmp	155.214983 ms	19.785119 ms	195 
+frame09.bmp	174.768143 ms	19.553160 ms	195 
+
+Estimated latency: 36.290372 ms
+Run 38...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-513.282863 ms	0.000000 ms	0 
+frame01.bmp	26.103450 ms	539.386313 ms	51 ignored
+frame02.bmp	46.370142 ms	20.266692 ms	201 <-- changed
+frame03.bmp	65.321028 ms	18.950886 ms	201 
+frame04.bmp	85.330717 ms	20.009689 ms	201 
+frame05.bmp	105.082992 ms	19.752275 ms	201 
+frame06.bmp	125.091860 ms	20.008868 ms	201 
+frame07.bmp	145.493622 ms	20.401762 ms	201 
+frame08.bmp	165.059098 ms	19.565476 ms	201 
+frame09.bmp	184.958350 ms	19.899252 ms	201 
+
+Estimated latency: 46.370142 ms
+Run 39...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-503.198578 ms	0.000000 ms	0 
+frame01.bmp	16.821375 ms	520.019953 ms	51 ignored
+frame02.bmp	36.662739 ms	19.841364 ms	201 <-- changed
+frame03.bmp	55.529052 ms	18.866313 ms	201 
+frame04.bmp	75.464432 ms	19.935380 ms	201 
+frame05.bmp	95.495470 ms	20.031037 ms	201 
+frame06.bmp	115.408680 ms	19.913210 ms	201 
+frame07.bmp	135.223359 ms	19.814679 ms	201 
+frame08.bmp	155.242490 ms	20.019132 ms	201 
+frame09.bmp	175.184028 ms	19.941538 ms	201 
+
+Estimated latency: 36.662739 ms
+Run 40...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-512.473674 ms	0.000000 ms	0 
+frame01.bmp	26.706545 ms	539.180218 ms	51 ignored
+frame02.bmp	46.909601 ms	20.203057 ms	201 <-- changed
+frame03.bmp	65.860077 ms	18.950476 ms	201 
+frame04.bmp	85.807773 ms	19.947696 ms	201 
+frame05.bmp	105.574418 ms	19.766645 ms	201 
+frame06.bmp	125.497071 ms	19.922653 ms	201 
+frame07.bmp	145.546993 ms	20.049923 ms	201 
+frame08.bmp	165.418328 ms	19.871334 ms	201 
+frame09.bmp	185.825837 ms	20.407510 ms	201 
+
+Estimated latency: 46.909601 ms
+Run 41...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-502.772429 ms	0.000000 ms	0 
+frame01.bmp	17.243418 ms	520.015847 ms	51 ignored
+frame02.bmp	37.184956 ms	19.941538 ms	201 <-- changed
+frame03.bmp	56.044290 ms	18.859334 ms	201 
+frame04.bmp	75.863074 ms	19.818784 ms	201 
+frame05.bmp	95.773000 ms	19.909926 ms	201 
+frame06.bmp	115.914885 ms	20.141885 ms	201 
+frame07.bmp	135.782114 ms	19.867229 ms	201 
+frame08.bmp	155.618552 ms	19.836438 ms	201 
+frame09.bmp	175.726772 ms	20.108220 ms	201 
+
+Estimated latency: 37.184956 ms
+Run 42...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-512.340246 ms	0.000000 ms	0 
+frame01.bmp	27.048531 ms	539.388776 ms	51 ignored
+frame02.bmp	47.442903 ms	20.394372 ms	204 <-- changed
+frame03.bmp	66.149513 ms	18.706610 ms	204 
+frame04.bmp	86.175214 ms	20.025700 ms	204 
+frame05.bmp	105.941448 ms	19.766234 ms	204 
+frame06.bmp	126.091954 ms	20.150507 ms	204 
+frame07.bmp	146.213312 ms	20.121358 ms	204 
+frame08.bmp	165.837086 ms	19.623774 ms	204 
+frame09.bmp	185.893578 ms	20.056491 ms	204 
+
+Estimated latency: 47.442903 ms
+Run 43...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-502.276488 ms	0.000000 ms	0 
+frame01.bmp	17.579657 ms	519.856144 ms	51 ignored
+frame02.bmp	37.531869 ms	19.952212 ms	195 <-- changed
+frame03.bmp	56.409267 ms	18.877398 ms	195 
+frame04.bmp	76.443178 ms	20.033911 ms	195 
+frame05.bmp	96.410170 ms	19.966992 ms	195 
+frame06.bmp	116.311064 ms	19.900894 ms	195 
+frame07.bmp	136.205389 ms	19.894325 ms	195 
+frame08.bmp	156.304577 ms	20.099188 ms	195 
+frame09.bmp	176.193565 ms	19.888988 ms	195 
+
+Estimated latency: 37.531869 ms
+Run 44...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-512.006060 ms	0.000000 ms	0 
+frame01.bmp	27.453331 ms	539.459391 ms	51 ignored
+frame02.bmp	48.031218 ms	20.577887 ms	195 <-- changed
+frame03.bmp	66.702111 ms	18.670893 ms	195 
+frame04.bmp	86.557023 ms	19.854912 ms	195 
+frame05.bmp	106.528531 ms	19.971508 ms	195 
+frame06.bmp	126.592002 ms	20.063471 ms	195 
+frame07.bmp	146.474421 ms	19.882419 ms	195 
+frame08.bmp	166.734954 ms	20.260534 ms	195 
+frame09.bmp	186.235154 ms	19.500199 ms	195 
+
+Estimated latency: 48.031218 ms
+Run 45...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-502.018664 ms	0.000000 ms	0 
+frame01.bmp	18.063692 ms	520.082356 ms	51 ignored
+frame02.bmp	38.095140 ms	20.031448 ms	195 <-- changed
+frame03.bmp	56.869491 ms	18.774351 ms	195 
+frame04.bmp	76.769153 ms	19.899662 ms	195 
+frame05.bmp	96.846172 ms	20.077019 ms	195 
+frame06.bmp	116.821375 ms	19.975203 ms	195 
+frame07.bmp	136.739101 ms	19.917726 ms	195 
+frame08.bmp	156.669965 ms	19.930864 ms	195 
+frame09.bmp	176.565932 ms	19.895967 ms	195 
+
+Estimated latency: 38.095140 ms
+Run 46...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-511.686654 ms	0.000000 ms	0 
+frame01.bmp	28.003054 ms	539.689708 ms	51 ignored
+frame02.bmp	48.351856 ms	20.348801 ms	195 <-- changed
+frame03.bmp	67.060108 ms	18.708252 ms	195 
+frame04.bmp	87.015605 ms	19.955497 ms	195 
+frame05.bmp	106.939489 ms	19.923884 ms	195 
+frame06.bmp	126.899913 ms	19.960423 ms	195 
+frame07.bmp	147.043440 ms	20.143528 ms	195 
+frame08.bmp	166.935302 ms	19.891862 ms	195 
+frame09.bmp	186.713442 ms	19.778140 ms	195 
+
+Estimated latency: 48.351856 ms
+Run 47...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-501.468940 ms	0.000000 ms	0 
+frame01.bmp	18.127738 ms	519.596678 ms	51 ignored
+frame02.bmp	38.555364 ms	20.427627 ms	195 <-- changed
+frame03.bmp	57.370359 ms	18.814995 ms	195 
+frame04.bmp	77.280696 ms	19.910336 ms	195 
+frame05.bmp	97.177073 ms	19.896378 ms	195 
+frame06.bmp	117.209342 ms	20.032269 ms	195 
+frame07.bmp	137.215336 ms	20.005994 ms	195 
+frame08.bmp	157.054648 ms	19.839312 ms	195 
+frame09.bmp	177.096770 ms	20.042122 ms	195 
+
+Estimated latency: 38.555364 ms
+Run 48...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-507.024062 ms	0.000000 ms	0 
+frame01.bmp	14.129823 ms	521.153886 ms	51 ignored
+frame02.bmp	33.540523 ms	19.410700 ms	201 <-- changed
+frame03.bmp	51.930190 ms	18.389667 ms	201 
+frame04.bmp	71.919763 ms	19.989572 ms	201 
+frame05.bmp	91.649868 ms	19.730106 ms	201 
+frame06.bmp	111.732635 ms	20.082766 ms	201 
+frame07.bmp	131.844961 ms	20.112326 ms	201 
+frame08.bmp	151.648555 ms	19.803594 ms	201 
+frame09.bmp	171.615136 ms	19.966581 ms	201 
+
+Estimated latency: 33.540523 ms
+Run 49...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-501.135165 ms	0.000000 ms	0 
+frame01.bmp	18.676230 ms	519.811394 ms	51 ignored
+frame02.bmp	39.457748 ms	20.781519 ms	201 <-- changed
+frame03.bmp	57.833047 ms	18.375298 ms	201 
+frame04.bmp	77.671948 ms	19.838901 ms	201 
+frame05.bmp	97.627855 ms	19.955907 ms	201 
+frame06.bmp	117.586225 ms	19.958370 ms	201 
+frame07.bmp	137.556091 ms	19.969866 ms	201 
+frame08.bmp	157.601498 ms	20.045407 ms	201 
+frame09.bmp	177.685085 ms	20.083588 ms	201 
+
+Estimated latency: 39.457748 ms
+Run 50...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-506.615567 ms	0.000000 ms	0 
+frame01.bmp	14.049767 ms	520.665334 ms	51 ignored
+frame02.bmp	33.676825 ms	19.627058 ms	201 <-- changed
+frame03.bmp	52.940959 ms	19.264134 ms	201 
+frame04.bmp	72.295414 ms	19.354455 ms	201 
+frame05.bmp	92.128978 ms	19.833564 ms	201 
+frame06.bmp	112.214618 ms	20.085640 ms	201 
+frame07.bmp	132.196390 ms	19.981772 ms	201 
+frame08.bmp	152.116990 ms	19.920600 ms	201 
+frame09.bmp	172.173481 ms	20.056491 ms	201 
+
+Estimated latency: 33.676825 ms
+Run 51...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-500.558345 ms	0.000000 ms	0 
+frame01.bmp	19.152465 ms	519.710810 ms	51 ignored
+frame02.bmp	39.646600 ms	20.494135 ms	201 <-- changed
+frame03.bmp	58.269048 ms	18.622448 ms	201 
+frame04.bmp	78.047599 ms	19.778551 ms	201 
+frame05.bmp	98.095879 ms	20.048280 ms	201 
+frame06.bmp	118.043576 ms	19.947696 ms	201 
+frame07.bmp	137.999483 ms	19.955907 ms	201 
+frame08.bmp	157.989055 ms	19.989572 ms	201 
+frame09.bmp	178.032819 ms	20.043764 ms	201 
+
+Estimated latency: 39.646600 ms
+Run 52...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-506.134816 ms	0.000000 ms	0 
+frame01.bmp	14.729223 ms	520.864039 ms	51 ignored
+frame02.bmp	34.121859 ms	19.392636 ms	204 <-- changed
+frame03.bmp	52.855976 ms	18.734117 ms	204 
+frame04.bmp	72.841032 ms	19.985056 ms	204 
+frame05.bmp	92.672954 ms	19.831922 ms	204 
+frame06.bmp	112.715486 ms	20.042533 ms	204 
+frame07.bmp	132.719428 ms	20.003941 ms	204 
+frame08.bmp	152.572698 ms	19.853270 ms	204 
+frame09.bmp	172.618925 ms	20.046228 ms	204 
+
+Estimated latency: 34.121859 ms
+Run 53...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-500.203221 ms	0.000000 ms	0 
+frame01.bmp	19.608994 ms	519.812215 ms	51 ignored
+frame02.bmp	39.853927 ms	20.244933 ms	195 <-- changed
+frame03.bmp	58.600360 ms	18.746433 ms	195 
+frame04.bmp	78.904002 ms	20.303641 ms	195 
+frame05.bmp	98.683373 ms	19.779372 ms	195 
+frame06.bmp	118.405268 ms	19.721895 ms	195 
+frame07.bmp	138.489266 ms	20.083998 ms	195 
+frame08.bmp	158.517430 ms	20.028164 ms	195 
+frame09.bmp	178.392049 ms	19.874619 ms	195 
+
+Estimated latency: 39.853927 ms
+Run 54...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-505.596588 ms	0.000000 ms	0 
+frame01.bmp	14.884821 ms	520.481408 ms	51 ignored
+frame02.bmp	34.425254 ms	19.540433 ms	195 <-- changed
+frame03.bmp	53.095736 ms	18.670482 ms	195 
+frame04.bmp	73.293045 ms	20.197309 ms	195 
+frame05.bmp	93.135230 ms	19.842185 ms	195 
+frame06.bmp	113.204449 ms	20.069218 ms	195 
+frame07.bmp	133.062235 ms	19.857786 ms	195 
+frame08.bmp	152.918379 ms	19.856144 ms	195 
+frame09.bmp	172.963786 ms	20.045407 ms	195 
+
+Estimated latency: 34.425254 ms
+Run 55...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-514.860188 ms	0.000000 ms	0 
+frame01.bmp	24.396392 ms	539.256580 ms	51 ignored
+frame02.bmp	44.608071 ms	20.211678 ms	195 <-- changed
+frame03.bmp	63.658309 ms	19.050239 ms	195 
+frame04.bmp	83.447534 ms	19.789225 ms	195 
+frame05.bmp	103.336111 ms	19.888577 ms	195 
+frame06.bmp	123.307619 ms	19.971508 ms	195 
+frame07.bmp	143.447452 ms	20.139833 ms	195 
+frame08.bmp	163.201780 ms	19.754328 ms	195 
+frame09.bmp	183.186836 ms	19.985056 ms	195 
+
+Estimated latency: 44.608071 ms
+Run 56...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-505.135542 ms	0.000000 ms	0 
+frame01.bmp	15.235839 ms	520.371382 ms	51 ignored
+frame02.bmp	35.023011 ms	19.787172 ms	195 <-- changed
+frame03.bmp	53.743170 ms	18.720158 ms	195 
+frame04.bmp	73.708930 ms	19.965760 ms	195 
+frame05.bmp	93.515808 ms	19.806878 ms	195 
+frame06.bmp	113.511538 ms	19.995730 ms	195 
+frame07.bmp	133.360293 ms	19.848754 ms	195 
+frame08.bmp	153.416784 ms	20.056491 ms	195 
+frame09.bmp	173.491750 ms	20.074966 ms	195 
+
+Estimated latency: 35.023011 ms
+Run 57...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-514.633155 ms	0.000000 ms	0 
+frame01.bmp	24.952274 ms	539.585429 ms	51 ignored
+frame02.bmp	45.065010 ms	20.112736 ms	195 <-- changed
+frame03.bmp	63.926808 ms	18.861797 ms	195 
+frame04.bmp	83.952508 ms	20.025700 ms	195 
+frame05.bmp	103.691646 ms	19.739138 ms	195 
+frame06.bmp	123.732126 ms	20.040480 ms	195 
+frame07.bmp	143.746331 ms	20.014205 ms	195 
+frame08.bmp	163.719481 ms	19.973150 ms	195 
+frame09.bmp	183.597795 ms	19.878314 ms	195 
+
+Estimated latency: 45.065010 ms
+Run 58...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-504.791914 ms	0.000000 ms	0 
+frame01.bmp	16.121801 ms	520.913715 ms	51 ignored
+frame02.bmp	35.552207 ms	19.430406 ms	201 <-- changed
+frame03.bmp	54.242396 ms	18.690188 ms	201 
+frame04.bmp	74.082939 ms	19.840543 ms	201 
+frame05.bmp	94.032277 ms	19.949338 ms	201 
+frame06.bmp	114.027186 ms	19.994909 ms	201 
+frame07.bmp	133.980220 ms	19.953033 ms	201 
+frame08.bmp	153.842112 ms	19.861892 ms	201 
+frame09.bmp	173.921594 ms	20.079482 ms	201 
+
+Estimated latency: 35.552207 ms
+Run 59...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-514.251756 ms	0.000000 ms	0 
+frame01.bmp	25.248279 ms	539.500035 ms	51 ignored
+frame02.bmp	45.673853 ms	20.425574 ms	201 <-- changed
+frame03.bmp	64.382516 ms	18.708663 ms	201 
+frame04.bmp	84.383994 ms	20.001478 ms	201 
+frame05.bmp	104.343596 ms	19.959602 ms	201 
+frame06.bmp	124.178391 ms	19.834796 ms	201 
+frame07.bmp	144.174532 ms	19.996141 ms	201 
+frame08.bmp	164.127976 ms	19.953444 ms	201 
+frame09.bmp	184.190626 ms	20.062650 ms	201 
+
+Estimated latency: 45.673853 ms
+Run 60...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-504.200725 ms	0.000000 ms	0 
+frame01.bmp	16.580794 ms	520.781519 ms	51 ignored
+frame02.bmp	35.888035 ms	19.307242 ms	201 <-- changed
+frame03.bmp	54.668544 ms	18.780509 ms	201 
+frame04.bmp	74.505393 ms	19.836848 ms	201 
+frame05.bmp	94.470742 ms	19.965350 ms	201 
+frame06.bmp	114.413101 ms	19.942359 ms	201 
+frame07.bmp	134.385841 ms	19.972740 ms	201 
+frame08.bmp	154.274829 ms	19.888988 ms	201 
+frame09.bmp	174.376481 ms	20.101652 ms	201 
+
+Estimated latency: 35.888035 ms
+Run 61...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-513.823555 ms	0.000000 ms	0 
+frame01.bmp	25.811140 ms	539.634695 ms	51 ignored
+frame02.bmp	46.327855 ms	20.516715 ms	201 <-- changed
+frame03.bmp	64.970009 ms	18.642154 ms	201 
+frame04.bmp	85.329485 ms	20.359476 ms	201 
+frame05.bmp	104.777134 ms	19.447649 ms	201 
+frame06.bmp	124.576212 ms	19.799078 ms	201 
+frame07.bmp	144.720561 ms	20.144349 ms	201 
+frame08.bmp	164.519639 ms	19.799078 ms	201 
+frame09.bmp	184.510442 ms	19.990804 ms	201 
+
+Estimated latency: 46.327855 ms
+Run 62...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-503.755691 ms	0.000000 ms	0 
+frame01.bmp	16.641144 ms	520.396835 ms	51 ignored
+frame02.bmp	36.289551 ms	19.648407 ms	204 <-- changed
+frame03.bmp	55.145190 ms	18.855639 ms	204 
+frame04.bmp	75.224672 ms	20.079482 ms	204 
+frame05.bmp	94.866921 ms	19.642249 ms	204 
+frame06.bmp	114.932855 ms	20.065934 ms	204 
+frame07.bmp	134.862076 ms	19.929222 ms	204 
+frame08.bmp	154.759686 ms	19.897609 ms	204 
+frame09.bmp	174.923330 ms	20.163644 ms	204 
+
+Estimated latency: 36.289551 ms
+Run 63...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-513.299696 ms	0.000000 ms	0 
+frame01.bmp	26.208140 ms	539.507835 ms	51 ignored
+frame02.bmp	46.498233 ms	20.290093 ms	195 <-- changed
+frame03.bmp	65.318565 ms	18.820332 ms	195 
+frame04.bmp	85.387372 ms	20.068808 ms	195 
+frame05.bmp	105.066160 ms	19.678787 ms	195 
+frame06.bmp	125.168633 ms	20.102473 ms	195 
+frame07.bmp	144.968942 ms	19.800310 ms	195 
+frame08.bmp	164.887489 ms	19.918547 ms	195 
+frame09.bmp	184.998584 ms	20.111094 ms	195 
+
+Estimated latency: 46.498233 ms
+Run 64...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-503.310247 ms	0.000000 ms	0 
+frame01.bmp	17.407226 ms	520.717473 ms	51 ignored
+frame02.bmp	36.933701 ms	19.526474 ms	195 <-- changed
+frame03.bmp	55.622657 ms	18.688957 ms	195 
+frame04.bmp	75.399976 ms	19.777319 ms	195 
+frame05.bmp	95.397349 ms	19.997372 ms	195 
+frame06.bmp	115.389384 ms	19.992035 ms	195 
+frame07.bmp	135.468866 ms	20.079482 ms	195 
+frame08.bmp	155.457207 ms	19.988340 ms	195 
+frame09.bmp	175.335931 ms	19.878724 ms	195 
+
+Estimated latency: 36.933701 ms
+Run 65...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-512.951551 ms	0.000000 ms	0 
+frame01.bmp	26.651121 ms	539.602672 ms	51 ignored
+frame02.bmp	47.007312 ms	20.356191 ms	195 <-- changed
+frame03.bmp	65.920428 ms	18.913116 ms	195 
+frame04.bmp	85.809416 ms	19.888988 ms	195 
+frame05.bmp	105.670897 ms	19.861481 ms	195 
+frame06.bmp	125.643636 ms	19.972740 ms	195 
+frame07.bmp	145.581890 ms	19.938254 ms	195 
+frame08.bmp	165.493047 ms	19.911157 ms	195 
+frame09.bmp	185.494115 ms	20.001067 ms	195 
+
+Estimated latency: 47.007312 ms
+Run 66...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-502.795009 ms	0.000000 ms	0 
+frame01.bmp	17.587046 ms	520.382056 ms	51 ignored
+frame02.bmp	37.336859 ms	19.749812 ms	195 <-- changed
+frame03.bmp	56.042237 ms	18.705379 ms	195 
+frame04.bmp	75.982954 ms	19.940717 ms	195 
+frame05.bmp	95.868658 ms	19.885703 ms	195 
+frame06.bmp	115.826617 ms	19.957960 ms	195 
+frame07.bmp	135.910205 ms	20.083588 ms	195 
+frame08.bmp	155.682597 ms	19.772392 ms	195 
+frame09.bmp	175.722667 ms	20.040069 ms	195 
+
+Estimated latency: 37.336859 ms
+Run 67...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-512.608333 ms	0.000000 ms	0 
+frame01.bmp	27.139262 ms	539.747595 ms	51 ignored
+frame02.bmp	47.612459 ms	20.473197 ms	195 <-- changed
+frame03.bmp	66.322354 ms	18.709895 ms	195 
+frame04.bmp	86.215037 ms	19.892683 ms	195 
+frame05.bmp	106.031358 ms	19.816321 ms	195 
+frame06.bmp	126.143684 ms	20.112326 ms	195 
+frame07.bmp	145.998596 ms	19.854912 ms	195 
+frame08.bmp	165.886763 ms	19.888167 ms	195 
+frame09.bmp	185.942844 ms	20.056081 ms	195 
+
+Estimated latency: 47.612459 ms
+Run 68...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-502.389388 ms	0.000000 ms	0 
+frame01.bmp	17.828038 ms	520.217426 ms	51 ignored
+frame02.bmp	37.860718 ms	20.032680 ms	201 <-- changed
+frame03.bmp	56.424868 ms	18.564150 ms	201 
+frame04.bmp	76.351626 ms	19.926758 ms	201 
+frame05.bmp	96.468468 ms	20.116842 ms	201 
+frame06.bmp	116.266725 ms	19.798257 ms	201 
+frame07.bmp	136.169261 ms	19.902536 ms	201 
+frame08.bmp	156.248743 ms	20.079482 ms	201 
+frame09.bmp	176.105297 ms	19.856555 ms	201 
+
+Estimated latency: 37.860718 ms
+Run 69...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-512.083243 ms	0.000000 ms	0 
+frame01.bmp	27.528461 ms	539.611704 ms	51 ignored
+frame02.bmp	48.022597 ms	20.494135 ms	201 <-- changed
+frame03.bmp	66.732491 ms	18.709895 ms	201 
+frame04.bmp	86.705231 ms	19.972740 ms	201 
+frame05.bmp	106.459148 ms	19.753918 ms	201 
+frame06.bmp	126.510303 ms	20.051154 ms	201 
+frame07.bmp	146.418176 ms	19.907873 ms	201 
+frame08.bmp	166.335491 ms	19.917316 ms	201 
+frame09.bmp	186.494620 ms	20.159128 ms	201 
+
+Estimated latency: 48.022597 ms
+Run 70...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-501.921774 ms	0.000000 ms	0 
+frame01.bmp	18.427848 ms	520.349623 ms	51 ignored
+frame02.bmp	38.281940 ms	19.854091 ms	201 <-- changed
+frame03.bmp	56.903977 ms	18.622037 ms	201 
+frame04.bmp	76.841820 ms	19.937843 ms	201 
+frame05.bmp	96.806759 ms	19.964939 ms	201 
+frame06.bmp	116.711758 ms	19.904999 ms	201 
+frame07.bmp	136.705026 ms	19.993267 ms	201 
+frame08.bmp	156.820225 ms	20.115200 ms	201 
+frame09.bmp	176.634493 ms	19.814268 ms	201 
+
+Estimated latency: 38.281940 ms
+Run 71...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-511.524898 ms	0.000000 ms	0 
+frame01.bmp	28.128682 ms	539.653580 ms	51 ignored
+frame02.bmp	48.546045 ms	20.417363 ms	201 <-- changed
+frame03.bmp	67.126617 ms	18.580572 ms	201 
+frame04.bmp	86.981529 ms	19.854912 ms	201 
+frame05.bmp	106.976028 ms	19.994499 ms	201 
+frame06.bmp	126.991054 ms	20.015026 ms	201 
+frame07.bmp	146.946140 ms	19.955086 ms	201 
+frame08.bmp	166.960756 ms	20.014616 ms	201 
+frame09.bmp	186.786930 ms	19.826174 ms	201 
+
+Estimated latency: 48.546045 ms
+Run 72...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-501.541607 ms	0.000000 ms	0 
+frame01.bmp	18.851534 ms	520.393141 ms	51 ignored
+frame02.bmp	38.735595 ms	19.884061 ms	204 <-- changed
+frame03.bmp	57.350242 ms	18.614648 ms	204 
+frame04.bmp	77.369374 ms	20.019132 ms	204 
+frame05.bmp	97.252614 ms	19.883240 ms	204 
+frame06.bmp	117.277904 ms	20.025290 ms	204 
+frame07.bmp	137.162376 ms	19.884472 ms	204 
+frame08.bmp	157.029194 ms	19.866818 ms	204 
+frame09.bmp	177.162868 ms	20.133674 ms	204 
+
+Estimated latency: 38.735595 ms
+Run 73...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-506.891045 ms	0.000000 ms	0 
+frame01.bmp	14.526823 ms	521.417868 ms	51 ignored
+frame02.bmp	33.292552 ms	18.765729 ms	195 <-- changed
+frame03.bmp	52.122327 ms	18.829775 ms	195 
+frame04.bmp	71.872550 ms	19.750223 ms	195 
+frame05.bmp	91.921651 ms	20.049102 ms	195 
+frame06.bmp	111.842662 ms	19.921011 ms	195 
+frame07.bmp	132.334334 ms	20.491672 ms	195 
+frame08.bmp	151.681398 ms	19.347065 ms	195 
+frame09.bmp	171.645106 ms	19.963708 ms	195 
+
+Estimated latency: 33.292552 ms
+Run 74...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-500.931943 ms	0.000000 ms	0 
+frame01.bmp	18.873293 ms	519.805236 ms	51 ignored
+frame02.bmp	39.177755 ms	20.304462 ms	195 <-- changed
+frame03.bmp	57.804308 ms	18.626553 ms	195 
+frame04.bmp	77.844788 ms	20.040480 ms	195 
+frame05.bmp	97.798643 ms	19.953854 ms	195 
+frame06.bmp	117.675725 ms	19.877082 ms	195 
+frame07.bmp	137.598788 ms	19.923063 ms	195 
+frame08.bmp	157.609298 ms	20.010510 ms	195 
+frame09.bmp	177.577111 ms	19.967813 ms	195 
+
+Estimated latency: 39.177755 ms
+Run 75...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-506.444369 ms	0.000000 ms	0 
+frame01.bmp	14.997721 ms	521.442090 ms	51 ignored
+frame02.bmp	33.998284 ms	19.000562 ms	195 <-- changed
+frame03.bmp	52.484430 ms	18.486146 ms	195 
+frame04.bmp	72.380808 ms	19.896378 ms	195 
+frame05.bmp	92.206571 ms	19.825764 ms	195 
+frame06.bmp	112.300422 ms	20.093851 ms	195 
+frame07.bmp	132.153693 ms	19.853270 ms	195 
+frame08.bmp	152.080040 ms	19.926348 ms	195 
+frame09.bmp	172.110257 ms	20.030216 ms	195 
+
+Estimated latency: 33.998284 ms
+Run 76...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-500.509079 ms	0.000000 ms	0 
+frame01.bmp	19.257976 ms	519.767055 ms	51 ignored
+frame02.bmp	39.641674 ms	20.383698 ms	195 <-- changed
+frame03.bmp	58.195971 ms	18.554297 ms	195 
+frame04.bmp	78.244662 ms	20.048691 ms	195 
+frame05.bmp	98.159104 ms	19.914442 ms	195 
+frame06.bmp	118.014837 ms	19.855734 ms	195 
+frame07.bmp	138.100477 ms	20.085640 ms	195 
+frame08.bmp	158.012867 ms	19.912389 ms	195 
+frame09.bmp	177.965489 ms	19.952623 ms	195 
+
+Estimated latency: 39.641674 ms
+Run 77...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-505.995229 ms	0.000000 ms	0 
+frame01.bmp	15.758056 ms	521.753285 ms	51 ignored
+frame02.bmp	34.213411 ms	18.455355 ms	195 <-- changed
+frame03.bmp	52.873219 ms	18.659808 ms	195 
+frame04.bmp	72.670244 ms	19.797025 ms	195 
+frame05.bmp	92.786675 ms	20.116431 ms	195 
+frame06.bmp	112.634608 ms	19.847933 ms	195 
+frame07.bmp	132.621307 ms	19.986698 ms	195 
+frame08.bmp	152.498389 ms	19.877082 ms	195 
+frame09.bmp	172.694056 ms	20.195667 ms	195 
+
+Estimated latency: 34.213411 ms
+Run 78...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-515.627091 ms	0.000000 ms	0 
+frame01.bmp	23.971065 ms	539.598156 ms	51 ignored
+frame02.bmp	44.484085 ms	20.513021 ms	201 <-- changed
+frame03.bmp	63.251046 ms	18.766961 ms	201 
+frame04.bmp	82.902327 ms	19.651281 ms	201 
+frame05.bmp	102.875887 ms	19.973561 ms	201 
+frame06.bmp	122.867512 ms	19.991625 ms	201 
+frame07.bmp	142.843126 ms	19.975613 ms	201 
+frame08.bmp	162.753872 ms	19.910747 ms	201 
+frame09.bmp	182.738107 ms	19.984235 ms	201 
+
+Estimated latency: 44.484085 ms
+Run 79...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-501.207011 ms	0.000000 ms	0 
+frame01.bmp	19.350349 ms	520.557360 ms	51 ignored
+frame02.bmp	39.188019 ms	19.837669 ms	201 <-- changed
+frame03.bmp	57.613404 ms	18.425385 ms	201 
+frame04.bmp	77.631303 ms	20.017900 ms	201 
+frame05.bmp	97.902922 ms	20.271618 ms	201 
+frame06.bmp	117.437196 ms	19.534275 ms	201 
+frame07.bmp	137.335627 ms	19.898430 ms	201 
+frame08.bmp	157.354758 ms	20.019132 ms	201 
+frame09.bmp	177.383333 ms	20.028574 ms	201 
+
+Estimated latency: 39.188019 ms
+Run 80...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-506.723541 ms	0.000000 ms	0 
+frame01.bmp	14.904117 ms	521.627658 ms	51 ignored
+frame02.bmp	33.563103 ms	18.658987 ms	201 <-- changed
+frame03.bmp	52.158455 ms	18.595352 ms	201 
+frame04.bmp	72.336879 ms	20.178424 ms	201 
+frame05.bmp	91.986928 ms	19.650049 ms	201 
+frame06.bmp	111.938730 ms	19.951802 ms	201 
+frame07.bmp	131.981263 ms	20.042533 ms	201 
+frame08.bmp	151.896936 ms	19.915673 ms	201 
+frame09.bmp	171.909088 ms	20.012152 ms	201 
+
+Estimated latency: 33.563103 ms
+Run 81...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-500.402747 ms	0.000000 ms	0 
+frame01.bmp	19.672629 ms	520.075377 ms	51 ignored
+frame02.bmp	39.450769 ms	19.778140 ms	201 <-- changed
+frame03.bmp	57.984539 ms	18.533770 ms	201 
+frame04.bmp	78.082085 ms	20.097546 ms	201 
+frame05.bmp	97.881984 ms	19.799899 ms	201 
+frame06.bmp	117.799710 ms	19.917726 ms	201 
+frame07.bmp	137.801188 ms	20.001478 ms	201 
+frame08.bmp	157.821962 ms	20.020774 ms	201 
+frame09.bmp	177.804144 ms	19.982182 ms	201 
+
+Estimated latency: 39.450769 ms
+Run 82...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-506.253053 ms	0.000000 ms	0 
+frame01.bmp	15.490789 ms	521.743843 ms	51 ignored
+frame02.bmp	34.084499 ms	18.593710 ms	204 <-- changed
+frame03.bmp	52.665071 ms	18.580572 ms	204 
+frame04.bmp	72.514236 ms	19.849165 ms	204 
+frame05.bmp	92.412666 ms	19.898430 ms	204 
+frame06.bmp	112.469158 ms	20.056491 ms	204 
+frame07.bmp	132.445182 ms	19.976024 ms	204 
+frame08.bmp	152.323906 ms	19.878724 ms	204 
+frame09.bmp	172.375060 ms	20.051154 ms	204 
+
+Estimated latency: 34.084499 ms
+Run 83...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-500.251255 ms	0.000000 ms	0 
+frame01.bmp	19.753918 ms	520.005173 ms	51 ignored
+frame02.bmp	40.117499 ms	20.363581 ms	195 <-- changed
+frame03.bmp	58.513735 ms	18.396236 ms	195 
+frame04.bmp	78.491401 ms	19.977666 ms	195 
+frame05.bmp	98.414054 ms	19.922653 ms	195 
+frame06.bmp	118.233659 ms	19.819605 ms	195 
+frame07.bmp	138.261823 ms	20.028164 ms	195 
+frame08.bmp	158.285470 ms	20.023648 ms	195 
+frame09.bmp	178.192112 ms	19.906641 ms	195 
+
+Estimated latency: 40.117499 ms
+Run 84...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-505.683213 ms	0.000000 ms	0 
+frame01.bmp	15.747382 ms	521.430595 ms	51 ignored
+frame02.bmp	34.408832 ms	18.661450 ms	195 <-- changed
+frame03.bmp	53.097788 ms	18.688957 ms	195 
+frame04.bmp	72.969944 ms	19.872155 ms	195 
+frame05.bmp	92.845384 ms	19.875440 ms	195 
+frame06.bmp	113.028324 ms	20.182940 ms	195 
+frame07.bmp	132.906637 ms	19.878314 ms	195 
+frame08.bmp	152.698736 ms	19.792099 ms	195 
+frame09.bmp	172.828305 ms	20.129569 ms	195 
+
+Estimated latency: 34.408832 ms
+Run 85...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-515.496537 ms	0.000000 ms	0 
+frame01.bmp	24.334399 ms	539.830936 ms	51 ignored
+frame02.bmp	44.643378 ms	20.308978 ms	195 <-- changed
+frame03.bmp	63.260078 ms	18.616700 ms	195 
+frame04.bmp	83.318622 ms	20.058544 ms	195 
+frame05.bmp	103.075003 ms	19.756381 ms	195 
+frame06.bmp	123.131494 ms	20.056491 ms	195 
+frame07.bmp	143.075906 ms	19.944412 ms	195 
+frame08.bmp	163.495732 ms	20.419826 ms	195 
+frame09.bmp	183.066956 ms	19.571224 ms	195 
+
+Estimated latency: 44.643378 ms
+Run 86...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-505.368734 ms	0.000000 ms	0 
+frame01.bmp	15.486273 ms	520.855007 ms	51 ignored
+frame02.bmp	35.002484 ms	19.516210 ms	195 <-- changed
+frame03.bmp	53.616721 ms	18.614237 ms	195 
+frame04.bmp	73.537321 ms	19.920600 ms	195 
+frame05.bmp	93.349126 ms	19.811805 ms	195 
+frame06.bmp	113.408901 ms	20.059776 ms	195 
+frame07.bmp	133.332375 ms	19.923474 ms	195 
+frame08.bmp	153.173740 ms	19.841364 ms	195 
+frame09.bmp	173.268412 ms	20.094672 ms	195 
+
+Estimated latency: 35.002484 ms
+Run 87...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-514.883179 ms	0.000000 ms	0 
+frame01.bmp	24.701429 ms	539.584608 ms	51 ignored
+frame02.bmp	45.101138 ms	20.399709 ms	195 <-- changed
+frame03.bmp	63.758072 ms	18.656934 ms	195 
+frame04.bmp	83.909811 ms	20.151738 ms	195 
+frame05.bmp	103.575871 ms	19.666060 ms	195 
+frame06.bmp	123.476765 ms	19.900894 ms	195 
+frame07.bmp	143.495075 ms	20.018310 ms	195 
+frame08.bmp	163.472742 ms	19.977666 ms	195 
+frame09.bmp	183.394984 ms	19.922242 ms	195 
+
+Estimated latency: 45.101138 ms
+Run 88...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-504.897835 ms	0.000000 ms	0 
+frame01.bmp	16.210480 ms	521.108315 ms	51 ignored
+frame02.bmp	35.481183 ms	19.270703 ms	201 <-- changed
+frame03.bmp	54.023163 ms	18.541981 ms	201 
+frame04.bmp	73.983997 ms	19.960834 ms	201 
+frame05.bmp	93.853689 ms	19.869692 ms	201 
+frame06.bmp	113.835871 ms	19.982182 ms	201 
+frame07.bmp	133.704332 ms	19.868460 ms	201 
+frame08.bmp	153.651617 ms	19.947286 ms	201 
+frame09.bmp	173.734794 ms	20.083177 ms	201 
+
+Estimated latency: 35.481183 ms
+Run 89...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-514.551867 ms	0.000000 ms	0 
+frame01.bmp	25.071743 ms	539.623610 ms	51 ignored
+frame02.bmp	45.629103 ms	20.557360 ms	201 <-- changed
+frame03.bmp	64.289732 ms	18.660629 ms	201 
+frame04.bmp	84.202942 ms	19.913210 ms	201 
+frame05.bmp	103.988061 ms	19.785119 ms	201 
+frame06.bmp	123.995287 ms	20.007226 ms	201 
+frame07.bmp	143.999228 ms	20.003941 ms	201 
+frame08.bmp	163.950209 ms	19.950981 ms	201 
+frame09.bmp	183.849050 ms	19.898841 ms	201 
+
+Estimated latency: 45.629103 ms
+Run 90...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-504.397788 ms	0.000000 ms	0 
+frame01.bmp	14.631513 ms	519.029301 ms	51 ignored
+frame02.bmp	34.434696 ms	19.803183 ms	51 ignored
+frame03.bmp	54.450954 ms	20.016258 ms	51 ignored
+frame04.bmp	74.297245 ms	19.846291 ms	51 ignored
+frame05.bmp	94.335672 ms	20.038427 ms	51 ignored
+frame06.bmp	114.303485 ms	19.967813 ms	51 ignored
+frame07.bmp	134.144028 ms	19.840543 ms	51 ignored
+frame08.bmp	154.140990 ms	19.996962 ms	51 ignored
+frame09.bmp	175.347426 ms	21.206436 ms	51 ignored
+
+Estimated latency: -1.000000 ms
+Run 91...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-508.403913 ms	0.000000 ms	0 
+frame01.bmp	29.950283 ms	538.354196 ms	54 ignored
+frame02.bmp	50.498200 ms	20.547917 ms	207 <-- changed
+frame03.bmp	68.920711 ms	18.422511 ms	207 
+frame04.bmp	88.846238 ms	19.925527 ms	207 
+frame05.bmp	108.818977 ms	19.972740 ms	207 
+frame06.bmp	128.775295 ms	19.956318 ms	207 
+frame07.bmp	148.791142 ms	20.015847 ms	207 
+frame08.bmp	168.656318 ms	19.865176 ms	207 
+frame09.bmp	188.768644 ms	20.112326 ms	207 
+
+Estimated latency: 50.498200 ms
+Run 92...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-515.079010 ms	0.000000 ms	0 
+frame01.bmp	24.360264 ms	539.439274 ms	54 ignored
+frame02.bmp	45.081843 ms	20.721579 ms	210 <-- changed
+frame03.bmp	63.560599 ms	18.478756 ms	210 
+frame04.bmp	83.499263 ms	19.938664 ms	210 
+frame05.bmp	103.404673 ms	19.905410 ms	210 
+frame06.bmp	123.374128 ms	19.969455 ms	210 
+frame07.bmp	143.398597 ms	20.024469 ms	210 
+frame08.bmp	163.334387 ms	19.935790 ms	210 
+frame09.bmp	183.243902 ms	19.909515 ms	210 
+
+Estimated latency: 45.081843 ms
+Run 93...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-504.878129 ms	0.000000 ms	0 
+frame01.bmp	15.885326 ms	520.763455 ms	54 ignored
+frame02.bmp	35.226643 ms	19.341317 ms	201 <-- changed
+frame03.bmp	53.810089 ms	18.583446 ms	201 
+frame04.bmp	73.734794 ms	19.924706 ms	201 
+frame05.bmp	93.681669 ms	19.946875 ms	201 
+frame06.bmp	113.612944 ms	19.931274 ms	201 
+frame07.bmp	133.688320 ms	20.075377 ms	201 
+frame08.bmp	153.524758 ms	19.836438 ms	201 
+frame09.bmp	173.546353 ms	20.021595 ms	201 
+
+Estimated latency: 35.226643 ms
+Run 94...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-514.756319 ms	0.000000 ms	0 
+frame01.bmp	24.862774 ms	539.619094 ms	54 ignored
+frame02.bmp	45.422597 ms	20.559823 ms	201 <-- changed
+frame03.bmp	64.205159 ms	18.782562 ms	201 
+frame04.bmp	84.120422 ms	19.915263 ms	201 
+frame05.bmp	103.832874 ms	19.712452 ms	201 
+frame06.bmp	123.810130 ms	19.977256 ms	201 
+frame07.bmp	143.834599 ms	20.024469 ms	201 
+frame08.bmp	163.749861 ms	19.915263 ms	201 
+frame09.bmp	183.699200 ms	19.949338 ms	201 
+
+Estimated latency: 45.422597 ms
+Run 95...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-504.676960 ms	0.000000 ms	0 
+frame01.bmp	16.283557 ms	520.960518 ms	54 ignored
+frame02.bmp	35.776366 ms	19.492809 ms	201 <-- changed
+frame03.bmp	54.345033 ms	18.568666 ms	201 
+frame04.bmp	74.177365 ms	19.832332 ms	201 
+frame05.bmp	94.127935 ms	19.950570 ms	201 
+frame06.bmp	114.109296 ms	19.981361 ms	201 
+frame07.bmp	134.089836 ms	19.980540 ms	201 
+frame08.bmp	153.990319 ms	19.900483 ms	201 
+frame09.bmp	174.064875 ms	20.074555 ms	201 
+
+Estimated latency: 35.776366 ms
+Run 96...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-514.324423 ms	0.000000 ms	0 
+frame01.bmp	25.589855 ms	539.914278 ms	54 ignored
+frame02.bmp	45.927571 ms	20.337717 ms	201 <-- changed
+frame03.bmp	64.472836 ms	18.545265 ms	201 
+frame04.bmp	84.398773 ms	19.925937 ms	201 
+frame05.bmp	104.279550 ms	19.880777 ms	201 
+frame06.bmp	124.501492 ms	20.221942 ms	201 
+frame07.bmp	144.328077 ms	19.826585 ms	201 
+frame08.bmp	164.260993 ms	19.932916 ms	201 
+frame09.bmp	184.115085 ms	19.854091 ms	201 
+
+Estimated latency: 45.927571 ms
+Run 97...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-504.244243 ms	0.000000 ms	0 
+frame01.bmp	16.763488 ms	521.007731 ms	54 ignored
+frame02.bmp	36.172956 ms	19.409468 ms	201 <-- changed
+frame03.bmp	54.902967 ms	18.730011 ms	201 
+frame04.bmp	74.570259 ms	19.667292 ms	201 
+frame05.bmp	94.557368 ms	19.987109 ms	201 
+frame06.bmp	114.604417 ms	20.047049 ms	201 
+frame07.bmp	134.494636 ms	19.890220 ms	201 
+frame08.bmp	154.466965 ms	19.972329 ms	201 
+frame09.bmp	174.900750 ms	20.433785 ms	201 
+
+Estimated latency: 36.172956 ms
+Run 98...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-513.851472 ms	0.000000 ms	0 
+frame01.bmp	26.034478 ms	539.885950 ms	54 ignored
+frame02.bmp	46.485916 ms	20.451438 ms	207 <-- changed
+frame03.bmp	65.025844 ms	18.539928 ms	207 
+frame04.bmp	84.975593 ms	19.949749 ms	207 
+frame05.bmp	104.733616 ms	19.758023 ms	207 
+frame06.bmp	124.744126 ms	20.010510 ms	207 
+frame07.bmp	144.741088 ms	19.996962 ms	207 
+frame08.bmp	164.639929 ms	19.898841 ms	207 
+frame09.bmp	184.647565 ms	20.007636 ms	207 
+
+Estimated latency: 46.485916 ms
+Run 99...
+Capturing window (180, 59, 1133, 701)
+filename	timestamp	time diff	byte diff to frame 0
+frame00.bmp	-503.804957 ms	0.000000 ms	0 
+frame01.bmp	17.301716 ms	521.106673 ms	54 ignored
+frame02.bmp	36.868424 ms	19.566708 ms	207 <-- changed
+frame03.bmp	55.180087 ms	18.311663 ms	207 
+frame04.bmp	75.129425 ms	19.949338 ms	207 
+frame05.bmp	95.140346 ms	20.010921 ms	207 
+frame06.bmp	115.062999 ms	19.922653 ms	207 
+frame07.bmp	134.924890 ms	19.861892 ms	207 
+frame08.bmp	154.889419 ms	19.964529 ms	207 
+frame09.bmp	174.972185 ms	20.082766 ms	207 
+
+Estimated latency: 36.868424 ms
+
+Results for 'Writer' after 100 iterations:
+Avg lag:             39.384086 ms
+Standard deviation:  7.777373 ms
+Max lag:             52.922484 ms
+Min lag:             -1.000000 ms
